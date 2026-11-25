@@ -1,0 +1,12 @@
+# environment and caches
+.venv/
+__pycache__/
+.idea/
+# rendered outputs (large; regenerate with the tools)
+*.wav
+*.mp4
+*.log
+/ab/
+/profiles/
+/window.png
+/ig_story_cover.png
